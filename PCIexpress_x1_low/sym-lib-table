@@ -1,3 +1,4 @@
 (sym_lib_table
+  (version 7)
   (lib (name "PCIexpress")(type "KiCad")(uri "${KIPRJMOD}/../Library/PCIexpress.kicad_sym")(options "")(descr ""))
 )
